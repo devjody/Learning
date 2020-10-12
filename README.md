@@ -1,8 +1,2 @@
 # Learning
-
-
-Hello Kevin Testing this
-
-Testing this Jodys fork
-
-still testing
+![](https://raw.githubusercontent.com/devjody/Learning/master/images/StackExamples.png)
